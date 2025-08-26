@@ -1,2 +1,2 @@
-# Test-repo
+# Scripts
 repo-test
